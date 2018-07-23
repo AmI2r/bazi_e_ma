@@ -2,3 +2,9 @@
 *.log
 *.ini
 *.json
+*.dump
+*xml
+*.png
+*.dmp
+*Backup*
+*\temp*
